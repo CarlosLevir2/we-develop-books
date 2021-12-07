@@ -13,10 +13,10 @@ export const MangasList = styled.div`
   justify-content: center;
 `;
 
-export const ShowFavoritesButton = styled.button`
+export const Button = styled.button`
   font-size: 14px;
   padding: 15px 20px;
-  background-color: #ff2748;
+  background-color: ${({ theme }) => theme.colors.accent.primary};
   border: none;
   border-radius: 4px;
   color: #fff;

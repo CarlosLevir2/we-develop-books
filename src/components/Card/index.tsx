@@ -1,7 +1,7 @@
-import { useCallback, useMemo } from 'react';
+import { useCallback, useMemo, useState } from 'react';
 import { Manga } from '../../services/requests/types';
 import { useFavoriteMangas } from '../../store/useFavoriteMangas';
-import { theme } from '../../styles/theme';
+import { useUserPreferences } from '../../store/useUserPreferences';
 
 import * as S from './styles';
 
@@ -11,7 +11,9 @@ type Props = {
 };
 
 const Card = ({ manga, showFavorites = false }: Props) => {
+  const [showDescription, setShowDescription] = useState(false);
   const { favorites } = useFavoriteMangas();
+  const { theme } = useUserPreferences();
 
   const isFavorite = useMemo(
     () => favorites?.includes(manga.mal_id),
@@ -32,6 +34,10 @@ const Card = ({ manga, showFavorites = false }: Props) => {
     return null;
   }
 
+  const toggleDescription = useCallback(() => {
+    setShowDescription((oldShowDescription) => !oldShowDescription);
+  }, []);
+
   return (
     <S.Card>
       <S.CardImage src={manga.image_url} alt={manga.title} />
@@ -42,6 +48,13 @@ const Card = ({ manga, showFavorites = false }: Props) => {
           onClick={toggleFavoriteManga}
         />
         <S.CardTitle>{manga.title}</S.CardTitle>
+
+        <div>
+          <S.ShowDescriptionButton onClick={toggleDescription}>
+            Show Description
+          </S.ShowDescriptionButton>
+          {showDescription && <S.Description>{manga.url}</S.Description>}
+        </div>
       </S.Information>
     </S.Card>
   );

@@ -49,6 +49,7 @@ export const CardImage = styled.img`
 
 export const Information = styled.div`
   display: flex;
+  flex-direction: column;
 `;
 
 export const Star = styled(HiStar)`
@@ -56,4 +57,27 @@ export const Star = styled(HiStar)`
   > svg + svg {
     margin-left: 4px;
   }
+`;
+
+export const ShowDescriptionButton = styled.button`
+  border: 0;
+  width: 12rem;
+  height: 3rem;
+  background-color: ${({ theme }) => theme.colors.accent.primary};
+  border-radius: 0.4rem;
+  color: ${({ theme }) => theme.colors.text.highlight};
+  cursor: pointer;
+`;
+
+export const Description = styled.span`
+  font-size: 14px;
+  display: block;
+  width: 162px;
+  color: ${({ theme }) => theme.colors.text.primary};
+  margin-top: 8px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  pointer-events: auto;
+  overflow: hidden;
+  font-weight: bold;
 `;

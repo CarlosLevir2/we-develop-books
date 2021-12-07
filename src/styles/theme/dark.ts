@@ -1,4 +1,5 @@
-export const theme = {
+export const dark = {
+  name: 'dark',
   colors: {
     accent: {
       primary: '#ff2748',
