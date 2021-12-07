@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`match snapshot 1`] = `
+<div>
+  <li
+    class="sc-bdvvtL eGdjyq"
+  >
+    <img
+      alt="Berserk"
+      class="sc-dkPtRN dfuFxG"
+      src="https://cdn.myanimelist.net/images/manga/1/157897.jpg?s=f03b5f8bfeb0b0962b7d5e7cb9a8d0d3"
+    />
+    <div
+      class="sc-hKwDye bSWfzB"
+    >
+      <svg
+        class="sc-eCImPb imapUP"
+        color="#6e727a"
+        fill="currentColor"
+        height="28"
+        stroke="currentColor"
+        stroke-width="0"
+        style="color: rgb(110, 114, 122);"
+        viewBox="0 0 20 20"
+        width="28"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"
+        />
+      </svg>
+      <span
+        class="sc-gsDKAQ bcJVxq"
+      >
+        Berserk
+      </span>
+      <div>
+        <button
+          class="sc-jRQBWg ioDimu"
+        >
+          Show Description
+        </button>
+      </div>
+    </div>
+  </li>
+</div>
+`;

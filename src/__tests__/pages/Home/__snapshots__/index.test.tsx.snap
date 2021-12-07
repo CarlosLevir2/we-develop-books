@@ -3,16 +3,21 @@
 exports[`match snapshot 1`] = `
 <div>
   <div
-    class="sc-jRQBWg gldPmY"
+    class="sc-iCfMLu hzhaUz"
   >
     <button
-      class="sc-iCfMLu KRnes"
+      class="sc-pVTFL nNZzT"
     >
       Show 
       Favorites
     </button>
+    <button
+      class="sc-pVTFL nNZzT"
+    >
+      Toggle theme
+    </button>
     <div
-      class="sc-gKclnd izkudh"
+      class="sc-furwcr hCfTrP"
     >
       <li
         class="sc-bdvvtL eGdjyq"
@@ -23,7 +28,7 @@ exports[`match snapshot 1`] = `
           src="https://cdn.myanimelist.net/images/manga/1/157897.jpg?s=f03b5f8bfeb0b0962b7d5e7cb9a8d0d3"
         />
         <div
-          class="sc-hKwDye kIiDBr"
+          class="sc-hKwDye bSWfzB"
         >
           <svg
             class="sc-eCImPb imapUP"
@@ -46,6 +51,13 @@ exports[`match snapshot 1`] = `
           >
             Berserk
           </span>
+          <div>
+            <button
+              class="sc-jRQBWg ioDimu"
+            >
+              Show Description
+            </button>
+          </div>
         </div>
       </li>
       <li
@@ -57,7 +69,7 @@ exports[`match snapshot 1`] = `
           src="https://cdn.myanimelist.net/images/manga/3/179882.jpg?s=dac8109140406ca296cf4946296b5037"
         />
         <div
-          class="sc-hKwDye kIiDBr"
+          class="sc-hKwDye bSWfzB"
         >
           <svg
             class="sc-eCImPb imapUP"
@@ -80,6 +92,13 @@ exports[`match snapshot 1`] = `
           >
             JoJo no Kimyou na Bouken Part 7: Steel Ball Run
           </span>
+          <div>
+            <button
+              class="sc-jRQBWg ioDimu"
+            >
+              Show Description
+            </button>
+          </div>
         </div>
       </li>
       <li
@@ -91,7 +110,7 @@ exports[`match snapshot 1`] = `
           src="https://cdn.myanimelist.net/images/manga/3/55539.jpg?s=b4d9e935b7152f0c9e69b34a7797fe02"
         />
         <div
-          class="sc-hKwDye kIiDBr"
+          class="sc-hKwDye bSWfzB"
         >
           <svg
             class="sc-eCImPb imapUP"
@@ -114,6 +133,13 @@ exports[`match snapshot 1`] = `
           >
             One Piece
           </span>
+          <div>
+            <button
+              class="sc-jRQBWg ioDimu"
+            >
+              Show Description
+            </button>
+          </div>
         </div>
       </li>
       <li
@@ -125,7 +151,7 @@ exports[`match snapshot 1`] = `
           src="https://cdn.myanimelist.net/images/manga/2/181787.jpg?s=bbd3ff81b5d8e50781531c60cd68773f"
         />
         <div
-          class="sc-hKwDye kIiDBr"
+          class="sc-hKwDye bSWfzB"
         >
           <svg
             class="sc-eCImPb imapUP"
@@ -148,6 +174,13 @@ exports[`match snapshot 1`] = `
           >
             Vagabond
           </span>
+          <div>
+            <button
+              class="sc-jRQBWg ioDimu"
+            >
+              Show Description
+            </button>
+          </div>
         </div>
       </li>
       <li
@@ -159,7 +192,7 @@ exports[`match snapshot 1`] = `
           src="https://cdn.myanimelist.net/images/manga/3/54525.jpg?s=c660994ac8ba790d9e6bb2400f7c73cd"
         />
         <div
-          class="sc-hKwDye kIiDBr"
+          class="sc-hKwDye bSWfzB"
         >
           <svg
             class="sc-eCImPb imapUP"
@@ -182,6 +215,13 @@ exports[`match snapshot 1`] = `
           >
             Monster
           </span>
+          <div>
+            <button
+              class="sc-jRQBWg ioDimu"
+            >
+              Show Description
+            </button>
+          </div>
         </div>
       </li>
       <li
@@ -193,7 +233,7 @@ exports[`match snapshot 1`] = `
           src="https://cdn.myanimelist.net/images/manga/3/243675.jpg?s=8cb0a643f8a7597514447f2dd0e4ffc2"
         />
         <div
-          class="sc-hKwDye kIiDBr"
+          class="sc-hKwDye bSWfzB"
         >
           <svg
             class="sc-eCImPb imapUP"
@@ -216,6 +256,13 @@ exports[`match snapshot 1`] = `
           >
             Fullmetal Alchemist
           </span>
+          <div>
+            <button
+              class="sc-jRQBWg ioDimu"
+            >
+              Show Description
+            </button>
+          </div>
         </div>
       </li>
       <li
@@ -227,7 +274,7 @@ exports[`match snapshot 1`] = `
           src="https://cdn.myanimelist.net/images/manga/3/164420.jpg?s=76cffa4b8fdbfedb7a554a5a5695a47a"
         />
         <div
-          class="sc-hKwDye kIiDBr"
+          class="sc-hKwDye bSWfzB"
         >
           <svg
             class="sc-eCImPb imapUP"
@@ -250,6 +297,13 @@ exports[`match snapshot 1`] = `
           >
             Oyasumi Punpun
           </span>
+          <div>
+            <button
+              class="sc-jRQBWg ioDimu"
+            >
+              Show Description
+            </button>
+          </div>
         </div>
       </li>
       <li
@@ -261,7 +315,7 @@ exports[`match snapshot 1`] = `
           src="https://cdn.myanimelist.net/images/manga/2/166124.jpg?s=3a3e1279dd192ea90a32ff6bdfdbe4dc"
         />
         <div
-          class="sc-hKwDye kIiDBr"
+          class="sc-hKwDye bSWfzB"
         >
           <svg
             class="sc-eCImPb imapUP"
@@ -284,6 +338,13 @@ exports[`match snapshot 1`] = `
           >
             Grand Blue
           </span>
+          <div>
+            <button
+              class="sc-jRQBWg ioDimu"
+            >
+              Show Description
+            </button>
+          </div>
         </div>
       </li>
       <li
@@ -295,7 +356,7 @@ exports[`match snapshot 1`] = `
           src="https://cdn.myanimelist.net/images/manga/2/157904.jpg?s=c8477fd874de514caeb368880ec9e1db"
         />
         <div
-          class="sc-hKwDye kIiDBr"
+          class="sc-hKwDye bSWfzB"
         >
           <svg
             class="sc-eCImPb imapUP"
@@ -318,6 +379,13 @@ exports[`match snapshot 1`] = `
           >
             Slam Dunk
           </span>
+          <div>
+            <button
+              class="sc-jRQBWg ioDimu"
+            >
+              Show Description
+            </button>
+          </div>
         </div>
       </li>
       <li
@@ -329,7 +397,7 @@ exports[`match snapshot 1`] = `
           src="https://cdn.myanimelist.net/images/manga/2/171872.jpg?s=21a45c6d977c58c19e3075b015c4ee39"
         />
         <div
-          class="sc-hKwDye kIiDBr"
+          class="sc-hKwDye bSWfzB"
         >
           <svg
             class="sc-eCImPb imapUP"
@@ -352,6 +420,13 @@ exports[`match snapshot 1`] = `
           >
             Kingdom
           </span>
+          <div>
+            <button
+              class="sc-jRQBWg ioDimu"
+            >
+              Show Description
+            </button>
+          </div>
         </div>
       </li>
       <li
@@ -363,7 +438,7 @@ exports[`match snapshot 1`] = `
           src="https://cdn.myanimelist.net/images/manga/2/188925.jpg?s=18b1d30b74bf96b476068901f579e408"
         />
         <div
-          class="sc-hKwDye kIiDBr"
+          class="sc-hKwDye bSWfzB"
         >
           <svg
             class="sc-eCImPb imapUP"
@@ -386,6 +461,13 @@ exports[`match snapshot 1`] = `
           >
             Vinland Saga
           </span>
+          <div>
+            <button
+              class="sc-jRQBWg ioDimu"
+            >
+              Show Description
+            </button>
+          </div>
         </div>
       </li>
       <li
@@ -397,7 +479,7 @@ exports[`match snapshot 1`] = `
           src="https://cdn.myanimelist.net/images/manga/5/173535.jpg?s=b3742ac411067d352b351824b11b5836"
         />
         <div
-          class="sc-hKwDye kIiDBr"
+          class="sc-hKwDye bSWfzB"
         >
           <svg
             class="sc-eCImPb imapUP"
@@ -420,6 +502,13 @@ exports[`match snapshot 1`] = `
           >
             Monogatari Series: First Season
           </span>
+          <div>
+            <button
+              class="sc-jRQBWg ioDimu"
+            >
+              Show Description
+            </button>
+          </div>
         </div>
       </li>
       <li
@@ -431,7 +520,7 @@ exports[`match snapshot 1`] = `
           src="https://cdn.myanimelist.net/images/manga/1/54437.jpg?s=2dfac509e795f7cc672f1b4c4930bf92"
         />
         <div
-          class="sc-hKwDye kIiDBr"
+          class="sc-hKwDye bSWfzB"
         >
           <svg
             class="sc-eCImPb imapUP"
@@ -454,6 +543,13 @@ exports[`match snapshot 1`] = `
           >
             20th Century Boys
           </span>
+          <div>
+            <button
+              class="sc-jRQBWg ioDimu"
+            >
+              Show Description
+            </button>
+          </div>
         </div>
       </li>
       <li
@@ -465,7 +561,7 @@ exports[`match snapshot 1`] = `
           src="https://cdn.myanimelist.net/images/manga/4/75029.jpg?s=9888e364738fc189aab5408ebeb63435"
         />
         <div
-          class="sc-hKwDye kIiDBr"
+          class="sc-hKwDye bSWfzB"
         >
           <svg
             class="sc-eCImPb imapUP"
@@ -488,6 +584,13 @@ exports[`match snapshot 1`] = `
           >
             Ashita no Joe
           </span>
+          <div>
+            <button
+              class="sc-jRQBWg ioDimu"
+            >
+              Show Description
+            </button>
+          </div>
         </div>
       </li>
       <li
@@ -499,7 +602,7 @@ exports[`match snapshot 1`] = `
           src="https://cdn.myanimelist.net/images/manga/3/188896.jpg?s=107a5af07f0e6992faa286f94596f231"
         />
         <div
-          class="sc-hKwDye kIiDBr"
+          class="sc-hKwDye bSWfzB"
         >
           <svg
             class="sc-eCImPb imapUP"
@@ -522,6 +625,13 @@ exports[`match snapshot 1`] = `
           >
             Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen
           </span>
+          <div>
+            <button
+              class="sc-jRQBWg ioDimu"
+            >
+              Show Description
+            </button>
+          </div>
         </div>
       </li>
       <li
@@ -533,7 +643,7 @@ exports[`match snapshot 1`] = `
           src="https://cdn.myanimelist.net/images/manga/2/181553.jpg?s=f27f4bdebd5a5d90996112eda295cf1b"
         />
         <div
-          class="sc-hKwDye kIiDBr"
+          class="sc-hKwDye bSWfzB"
         >
           <svg
             class="sc-eCImPb imapUP"
@@ -556,6 +666,13 @@ exports[`match snapshot 1`] = `
           >
             Monogatari Series: Second Season
           </span>
+          <div>
+            <button
+              class="sc-jRQBWg ioDimu"
+            >
+              Show Description
+            </button>
+          </div>
         </div>
       </li>
       <li
@@ -567,7 +684,7 @@ exports[`match snapshot 1`] = `
           src="https://cdn.myanimelist.net/images/manga/1/115443.jpg?s=9795cb8739785d402a60e5aade4ddf3b"
         />
         <div
-          class="sc-hKwDye kIiDBr"
+          class="sc-hKwDye bSWfzB"
         >
           <svg
             class="sc-eCImPb imapUP"
@@ -590,6 +707,13 @@ exports[`match snapshot 1`] = `
           >
             Houseki no Kuni
           </span>
+          <div>
+            <button
+              class="sc-jRQBWg ioDimu"
+            >
+              Show Description
+            </button>
+          </div>
         </div>
       </li>
       <li
@@ -601,7 +725,7 @@ exports[`match snapshot 1`] = `
           src="https://cdn.myanimelist.net/images/manga/1/52281.jpg?s=de71b0293b835f698d65143d9bf14cee"
         />
         <div
-          class="sc-hKwDye kIiDBr"
+          class="sc-hKwDye bSWfzB"
         >
           <svg
             class="sc-eCImPb imapUP"
@@ -624,6 +748,13 @@ exports[`match snapshot 1`] = `
           >
             3-gatsu no Lion
           </span>
+          <div>
+            <button
+              class="sc-jRQBWg ioDimu"
+            >
+              Show Description
+            </button>
+          </div>
         </div>
       </li>
       <li
@@ -635,7 +766,7 @@ exports[`match snapshot 1`] = `
           src="https://cdn.myanimelist.net/images/manga/2/172982.jpg?s=12df0730d20b4e6c9294bf8293feb5ee"
         />
         <div
-          class="sc-hKwDye kIiDBr"
+          class="sc-hKwDye bSWfzB"
         >
           <svg
             class="sc-eCImPb imapUP"
@@ -658,6 +789,13 @@ exports[`match snapshot 1`] = `
           >
             GTO
           </span>
+          <div>
+            <button
+              class="sc-jRQBWg ioDimu"
+            >
+              Show Description
+            </button>
+          </div>
         </div>
       </li>
       <li
@@ -669,7 +807,7 @@ exports[`match snapshot 1`] = `
           src="https://cdn.myanimelist.net/images/manga/3/235363.jpg?s=c149025727da0c0cb037d23e25677c92"
         />
         <div
-          class="sc-hKwDye kIiDBr"
+          class="sc-hKwDye bSWfzB"
         >
           <svg
             class="sc-eCImPb imapUP"
@@ -692,6 +830,13 @@ exports[`match snapshot 1`] = `
           >
             Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e: 2-nensei-hen
           </span>
+          <div>
+            <button
+              class="sc-jRQBWg ioDimu"
+            >
+              Show Description
+            </button>
+          </div>
         </div>
       </li>
       <li
@@ -703,7 +848,7 @@ exports[`match snapshot 1`] = `
           src="https://cdn.myanimelist.net/images/manga/3/57369.jpg?s=04002980dcd4cfd0fb15e3bb9597d934"
         />
         <div
-          class="sc-hKwDye kIiDBr"
+          class="sc-hKwDye bSWfzB"
         >
           <svg
             class="sc-eCImPb imapUP"
@@ -726,6 +871,13 @@ exports[`match snapshot 1`] = `
           >
             Yotsuba to!
           </span>
+          <div>
+            <button
+              class="sc-jRQBWg ioDimu"
+            >
+              Show Description
+            </button>
+          </div>
         </div>
       </li>
       <li
@@ -737,7 +889,7 @@ exports[`match snapshot 1`] = `
           src="https://cdn.myanimelist.net/images/manga/1/120529.jpg?s=7d7fdc308409589ca579b5a9376effd9"
         />
         <div
-          class="sc-hKwDye kIiDBr"
+          class="sc-hKwDye bSWfzB"
         >
           <svg
             class="sc-eCImPb imapUP"
@@ -760,6 +912,13 @@ exports[`match snapshot 1`] = `
           >
             Koe no Katachi
           </span>
+          <div>
+            <button
+              class="sc-jRQBWg ioDimu"
+            >
+              Show Description
+            </button>
+          </div>
         </div>
       </li>
       <li
@@ -771,7 +930,7 @@ exports[`match snapshot 1`] = `
           src="https://cdn.myanimelist.net/images/manga/2/177958.jpg?s=53f4b8f50c92e541bdd3e1d662e9b3eb"
         />
         <div
-          class="sc-hKwDye kIiDBr"
+          class="sc-hKwDye bSWfzB"
         >
           <svg
             class="sc-eCImPb imapUP"
@@ -794,6 +953,13 @@ exports[`match snapshot 1`] = `
           >
             Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e
           </span>
+          <div>
+            <button
+              class="sc-jRQBWg ioDimu"
+            >
+              Show Description
+            </button>
+          </div>
         </div>
       </li>
       <li
@@ -805,7 +971,7 @@ exports[`match snapshot 1`] = `
           src="https://cdn.myanimelist.net/images/manga/1/181554.jpg?s=bbd4d7cf1d64d06cfec15220f9c39540"
         />
         <div
-          class="sc-hKwDye kIiDBr"
+          class="sc-hKwDye bSWfzB"
         >
           <svg
             class="sc-eCImPb imapUP"
@@ -828,6 +994,13 @@ exports[`match snapshot 1`] = `
           >
             Monogatari Series: Final Season
           </span>
+          <div>
+            <button
+              class="sc-jRQBWg ioDimu"
+            >
+              Show Description
+            </button>
+          </div>
         </div>
       </li>
       <li
@@ -839,7 +1012,7 @@ exports[`match snapshot 1`] = `
           src="https://cdn.myanimelist.net/images/manga/2/153860.jpg?s=3981f0bee3695e1a75744764f8d1b257"
         />
         <div
-          class="sc-hKwDye kIiDBr"
+          class="sc-hKwDye bSWfzB"
         >
           <svg
             class="sc-eCImPb imapUP"
@@ -862,6 +1035,13 @@ exports[`match snapshot 1`] = `
           >
             Ookami to Koushinryou
           </span>
+          <div>
+            <button
+              class="sc-jRQBWg ioDimu"
+            >
+              Show Description
+            </button>
+          </div>
         </div>
       </li>
       <li
@@ -873,7 +1053,7 @@ exports[`match snapshot 1`] = `
           src="https://cdn.myanimelist.net/images/manga/2/115969.jpg?s=5a4f02899c76aa4e575a7e877b20b4d8"
         />
         <div
-          class="sc-hKwDye kIiDBr"
+          class="sc-hKwDye bSWfzB"
         >
           <svg
             class="sc-eCImPb imapUP"
@@ -896,6 +1076,13 @@ exports[`match snapshot 1`] = `
           >
             Real
           </span>
+          <div>
+            <button
+              class="sc-jRQBWg ioDimu"
+            >
+              Show Description
+            </button>
+          </div>
         </div>
       </li>
       <li
@@ -907,7 +1094,7 @@ exports[`match snapshot 1`] = `
           src="https://cdn.myanimelist.net/images/manga/3/156624.jpg?s=237768196e315e268bbf5709d52af55c"
         />
         <div
-          class="sc-hKwDye kIiDBr"
+          class="sc-hKwDye bSWfzB"
         >
           <svg
             class="sc-eCImPb imapUP"
@@ -930,6 +1117,13 @@ exports[`match snapshot 1`] = `
           >
             Kaze no Tani no Nausicaä
           </span>
+          <div>
+            <button
+              class="sc-jRQBWg ioDimu"
+            >
+              Show Description
+            </button>
+          </div>
         </div>
       </li>
       <li
@@ -941,7 +1135,7 @@ exports[`match snapshot 1`] = `
           src="https://cdn.myanimelist.net/images/manga/3/222295.jpg?s=b3abea95ceaccea8adf223bd0e4047b6"
         />
         <div
-          class="sc-hKwDye kIiDBr"
+          class="sc-hKwDye bSWfzB"
         >
           <svg
             class="sc-eCImPb imapUP"
@@ -964,6 +1158,13 @@ exports[`match snapshot 1`] = `
           >
             Solo Leveling
           </span>
+          <div>
+            <button
+              class="sc-jRQBWg ioDimu"
+            >
+              Show Description
+            </button>
+          </div>
         </div>
       </li>
       <li
@@ -975,7 +1176,7 @@ exports[`match snapshot 1`] = `
           src="https://cdn.myanimelist.net/images/manga/3/153249.jpg?s=09f517be8d9e7cbfe8dc98db44ad10a8"
         />
         <div
-          class="sc-hKwDye kIiDBr"
+          class="sc-hKwDye bSWfzB"
         >
           <svg
             class="sc-eCImPb imapUP"
@@ -998,6 +1199,13 @@ exports[`match snapshot 1`] = `
           >
             Akatsuki no Yona
           </span>
+          <div>
+            <button
+              class="sc-jRQBWg ioDimu"
+            >
+              Show Description
+            </button>
+          </div>
         </div>
       </li>
       <li
@@ -1009,7 +1217,7 @@ exports[`match snapshot 1`] = `
           src="https://cdn.myanimelist.net/images/manga/4/89519.jpg?s=ad82f09ca07db963223d9c5d025454f3"
         />
         <div
-          class="sc-hKwDye kIiDBr"
+          class="sc-hKwDye bSWfzB"
         >
           <svg
             class="sc-eCImPb imapUP"
@@ -1032,6 +1240,13 @@ exports[`match snapshot 1`] = `
           >
             Haikyuu!!
           </span>
+          <div>
+            <button
+              class="sc-jRQBWg ioDimu"
+            >
+              Show Description
+            </button>
+          </div>
         </div>
       </li>
       <li
@@ -1043,7 +1258,7 @@ exports[`match snapshot 1`] = `
           src="https://cdn.myanimelist.net/images/manga/1/122461.jpg?s=e2c4751d530c14cf510a1e8f4ce69e39"
         />
         <div
-          class="sc-hKwDye kIiDBr"
+          class="sc-hKwDye bSWfzB"
         >
           <svg
             class="sc-eCImPb imapUP"
@@ -1066,6 +1281,13 @@ exports[`match snapshot 1`] = `
           >
             Yahari Ore no Seishun Love Comedy wa Machigatteiru.
           </span>
+          <div>
+            <button
+              class="sc-jRQBWg ioDimu"
+            >
+              Show Description
+            </button>
+          </div>
         </div>
       </li>
       <li
@@ -1077,7 +1299,7 @@ exports[`match snapshot 1`] = `
           src="https://cdn.myanimelist.net/images/manga/3/166256.jpg?s=1d3e9084ba8828ce8938ad1d5777febf"
         />
         <div
-          class="sc-hKwDye kIiDBr"
+          class="sc-hKwDye bSWfzB"
         >
           <svg
             class="sc-eCImPb imapUP"
@@ -1100,6 +1322,13 @@ exports[`match snapshot 1`] = `
           >
             Uchuu Kyoudai
           </span>
+          <div>
+            <button
+              class="sc-jRQBWg ioDimu"
+            >
+              Show Description
+            </button>
+          </div>
         </div>
       </li>
       <li
@@ -1111,7 +1340,7 @@ exports[`match snapshot 1`] = `
           src="https://cdn.myanimelist.net/images/manga/3/161645.jpg?s=58beeec91ad4532699a2b1da3c4d4cda"
         />
         <div
-          class="sc-hKwDye kIiDBr"
+          class="sc-hKwDye bSWfzB"
         >
           <svg
             class="sc-eCImPb imapUP"
@@ -1134,6 +1363,13 @@ exports[`match snapshot 1`] = `
           >
             Made in Abyss
           </span>
+          <div>
+            <button
+              class="sc-jRQBWg ioDimu"
+            >
+              Show Description
+            </button>
+          </div>
         </div>
       </li>
       <li
@@ -1145,7 +1381,7 @@ exports[`match snapshot 1`] = `
           src="https://cdn.myanimelist.net/images/manga/1/129447.jpg?s=59022093f8f6937a00b6dc9c9f668c00"
         />
         <div
-          class="sc-hKwDye kIiDBr"
+          class="sc-hKwDye bSWfzB"
         >
           <svg
             class="sc-eCImPb imapUP"
@@ -1168,6 +1404,13 @@ exports[`match snapshot 1`] = `
           >
             Re:Zero kara Hajimeru Isekai Seikatsu
           </span>
+          <div>
+            <button
+              class="sc-jRQBWg ioDimu"
+            >
+              Show Description
+            </button>
+          </div>
         </div>
       </li>
       <li
@@ -1179,7 +1422,7 @@ exports[`match snapshot 1`] = `
           src="https://cdn.myanimelist.net/images/manga/3/197880.jpg?s=836e55af7bfc57ed77d1e9cc553aa999"
         />
         <div
-          class="sc-hKwDye kIiDBr"
+          class="sc-hKwDye bSWfzB"
         >
           <svg
             class="sc-eCImPb imapUP"
@@ -1202,6 +1445,13 @@ exports[`match snapshot 1`] = `
           >
             Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de.
           </span>
+          <div>
+            <button
+              class="sc-jRQBWg ioDimu"
+            >
+              Show Description
+            </button>
+          </div>
         </div>
       </li>
       <li
@@ -1213,7 +1463,7 @@ exports[`match snapshot 1`] = `
           src="https://cdn.myanimelist.net/images/manga/2/175662.jpg?s=b9b22bf0e733997a1325b6461032eeac"
         />
         <div
-          class="sc-hKwDye kIiDBr"
+          class="sc-hKwDye bSWfzB"
         >
           <svg
             class="sc-eCImPb imapUP"
@@ -1236,6 +1486,13 @@ exports[`match snapshot 1`] = `
           >
             Utsuro no Hako to Zero no Maria
           </span>
+          <div>
+            <button
+              class="sc-jRQBWg ioDimu"
+            >
+              Show Description
+            </button>
+          </div>
         </div>
       </li>
       <li
@@ -1247,7 +1504,7 @@ exports[`match snapshot 1`] = `
           src="https://cdn.myanimelist.net/images/manga/3/206205.jpg?s=96c2a8b6097d3d142c66342609fe919c"
         />
         <div
-          class="sc-hKwDye kIiDBr"
+          class="sc-hKwDye bSWfzB"
         >
           <svg
             class="sc-eCImPb imapUP"
@@ -1270,6 +1527,13 @@ exports[`match snapshot 1`] = `
           >
             Umineko no Naku Koro ni Chiru - Episode 8: Twilight of the Golden Witch
           </span>
+          <div>
+            <button
+              class="sc-jRQBWg ioDimu"
+            >
+              Show Description
+            </button>
+          </div>
         </div>
       </li>
       <li
@@ -1281,7 +1545,7 @@ exports[`match snapshot 1`] = `
           src="https://cdn.myanimelist.net/images/manga/1/229331.jpg?s=c0ea9fd43c57983166e994940f50b441"
         />
         <div
-          class="sc-hKwDye kIiDBr"
+          class="sc-hKwDye bSWfzB"
         >
           <svg
             class="sc-eCImPb imapUP"
@@ -1304,6 +1568,13 @@ exports[`match snapshot 1`] = `
           >
             The Horizon
           </span>
+          <div>
+            <button
+              class="sc-jRQBWg ioDimu"
+            >
+              Show Description
+            </button>
+          </div>
         </div>
       </li>
       <li
@@ -1315,7 +1586,7 @@ exports[`match snapshot 1`] = `
           src="https://cdn.myanimelist.net/images/manga/2/159514.jpg?s=83c655376f84797c601792fa52e094ea"
         />
         <div
-          class="sc-hKwDye kIiDBr"
+          class="sc-hKwDye bSWfzB"
         >
           <svg
             class="sc-eCImPb imapUP"
@@ -1338,6 +1609,13 @@ exports[`match snapshot 1`] = `
           >
             Mushishi
           </span>
+          <div>
+            <button
+              class="sc-jRQBWg ioDimu"
+            >
+              Show Description
+            </button>
+          </div>
         </div>
       </li>
       <li
@@ -1349,7 +1627,7 @@ exports[`match snapshot 1`] = `
           src="https://cdn.myanimelist.net/images/manga/1/163191.jpg?s=0f2e6fea0853b7ca2608c6ec213727d1"
         />
         <div
-          class="sc-hKwDye kIiDBr"
+          class="sc-hKwDye bSWfzB"
         >
           <svg
             class="sc-eCImPb imapUP"
@@ -1372,6 +1650,13 @@ exports[`match snapshot 1`] = `
           >
             Nana
           </span>
+          <div>
+            <button
+              class="sc-jRQBWg ioDimu"
+            >
+              Show Description
+            </button>
+          </div>
         </div>
       </li>
       <li
@@ -1383,7 +1668,7 @@ exports[`match snapshot 1`] = `
           src="https://cdn.myanimelist.net/images/manga/2/204827.jpg?s=59b5a5078655a52434668caf6ec83bfb"
         />
         <div
-          class="sc-hKwDye kIiDBr"
+          class="sc-hKwDye bSWfzB"
         >
           <svg
             class="sc-eCImPb imapUP"
@@ -1406,6 +1691,13 @@ exports[`match snapshot 1`] = `
           >
             Blue Period
           </span>
+          <div>
+            <button
+              class="sc-jRQBWg ioDimu"
+            >
+              Show Description
+            </button>
+          </div>
         </div>
       </li>
       <li
@@ -1417,7 +1709,7 @@ exports[`match snapshot 1`] = `
           src="https://cdn.myanimelist.net/images/manga/1/171813.jpg?s=f4183bcb27637b1d000a8797d63332a9"
         />
         <div
-          class="sc-hKwDye kIiDBr"
+          class="sc-hKwDye bSWfzB"
         >
           <svg
             class="sc-eCImPb imapUP"
@@ -1440,6 +1732,13 @@ exports[`match snapshot 1`] = `
           >
             Yokohama Kaidashi Kikou
           </span>
+          <div>
+            <button
+              class="sc-jRQBWg ioDimu"
+            >
+              Show Description
+            </button>
+          </div>
         </div>
       </li>
       <li
@@ -1451,7 +1750,7 @@ exports[`match snapshot 1`] = `
           src="https://cdn.myanimelist.net/images/manga/4/154023.jpg?s=2507c4a239ca800e10e4427b0e60351b"
         />
         <div
-          class="sc-hKwDye kIiDBr"
+          class="sc-hKwDye bSWfzB"
         >
           <svg
             class="sc-eCImPb imapUP"
@@ -1474,6 +1773,13 @@ exports[`match snapshot 1`] = `
           >
             Natsume Yuujinchou
           </span>
+          <div>
+            <button
+              class="sc-jRQBWg ioDimu"
+            >
+              Show Description
+            </button>
+          </div>
         </div>
       </li>
       <li
@@ -1485,7 +1791,7 @@ exports[`match snapshot 1`] = `
           src="https://cdn.myanimelist.net/images/manga/3/248674.jpg?s=8df50c1467deb0ebeb25d3bfe1b4ef13"
         />
         <div
-          class="sc-hKwDye kIiDBr"
+          class="sc-hKwDye bSWfzB"
         >
           <svg
             class="sc-eCImPb imapUP"
@@ -1508,6 +1814,13 @@ exports[`match snapshot 1`] = `
           >
             Mikkakan no Koufuku
           </span>
+          <div>
+            <button
+              class="sc-jRQBWg ioDimu"
+            >
+              Show Description
+            </button>
+          </div>
         </div>
       </li>
       <li
@@ -1519,7 +1832,7 @@ exports[`match snapshot 1`] = `
           src="https://cdn.myanimelist.net/images/manga/3/80661.jpg?s=3eb9cd0c329dacd00f6c318ee0f5945f"
         />
         <div
-          class="sc-hKwDye kIiDBr"
+          class="sc-hKwDye bSWfzB"
         >
           <svg
             class="sc-eCImPb imapUP"
@@ -1542,6 +1855,13 @@ exports[`match snapshot 1`] = `
           >
             One Punch-Man
           </span>
+          <div>
+            <button
+              class="sc-jRQBWg ioDimu"
+            >
+              Show Description
+            </button>
+          </div>
         </div>
       </li>
       <li
@@ -1553,7 +1873,7 @@ exports[`match snapshot 1`] = `
           src="https://cdn.myanimelist.net/images/manga/2/54453.jpg?s=64e676c2d2ea8370b400a0503db2bc46"
         />
         <div
-          class="sc-hKwDye kIiDBr"
+          class="sc-hKwDye bSWfzB"
         >
           <svg
             class="sc-eCImPb imapUP"
@@ -1576,6 +1896,13 @@ exports[`match snapshot 1`] = `
           >
             Death Note
           </span>
+          <div>
+            <button
+              class="sc-jRQBWg ioDimu"
+            >
+              Show Description
+            </button>
+          </div>
         </div>
       </li>
       <li
@@ -1587,7 +1914,7 @@ exports[`match snapshot 1`] = `
           src="https://cdn.myanimelist.net/images/manga/2/157929.jpg?s=721c68c609abd2587e8dae8eeed7e65c"
         />
         <div
-          class="sc-hKwDye kIiDBr"
+          class="sc-hKwDye bSWfzB"
         >
           <svg
             class="sc-eCImPb imapUP"
@@ -1610,6 +1937,13 @@ exports[`match snapshot 1`] = `
           >
             Akira
           </span>
+          <div>
+            <button
+              class="sc-jRQBWg ioDimu"
+            >
+              Show Description
+            </button>
+          </div>
         </div>
       </li>
       <li
@@ -1621,7 +1955,7 @@ exports[`match snapshot 1`] = `
           src="https://cdn.myanimelist.net/images/manga/3/194315.jpg?s=3844c469c8f810b8f496b0beddcfaf5c"
         />
         <div
-          class="sc-hKwDye kIiDBr"
+          class="sc-hKwDye bSWfzB"
         >
           <svg
             class="sc-eCImPb imapUP"
@@ -1644,6 +1978,13 @@ exports[`match snapshot 1`] = `
           >
             86
           </span>
+          <div>
+            <button
+              class="sc-jRQBWg ioDimu"
+            >
+              Show Description
+            </button>
+          </div>
         </div>
       </li>
       <li
@@ -1655,7 +1996,7 @@ exports[`match snapshot 1`] = `
           src="https://cdn.myanimelist.net/images/manga/3/216464.jpg?s=be8b827c88ca462abed2d034b1a98dae"
         />
         <div
-          class="sc-hKwDye kIiDBr"
+          class="sc-hKwDye bSWfzB"
         >
           <svg
             class="sc-eCImPb imapUP"
@@ -1678,6 +2019,13 @@ exports[`match snapshot 1`] = `
           >
             Chainsaw Man
           </span>
+          <div>
+            <button
+              class="sc-jRQBWg ioDimu"
+            >
+              Show Description
+            </button>
+          </div>
         </div>
       </li>
       <li
@@ -1689,7 +2037,7 @@ exports[`match snapshot 1`] = `
           src="https://cdn.myanimelist.net/images/manga/2/253119.jpg?s=f9d25027f52ceb3d4f127ab96c3e0e5e"
         />
         <div
-          class="sc-hKwDye kIiDBr"
+          class="sc-hKwDye bSWfzB"
         >
           <svg
             class="sc-eCImPb imapUP"
@@ -1712,6 +2060,13 @@ exports[`match snapshot 1`] = `
           >
             Hunter x Hunter
           </span>
+          <div>
+            <button
+              class="sc-jRQBWg ioDimu"
+            >
+              Show Description
+            </button>
+          </div>
         </div>
       </li>
     </div>

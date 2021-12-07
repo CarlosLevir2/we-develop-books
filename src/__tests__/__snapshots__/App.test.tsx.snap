@@ -3,21 +3,21 @@
 exports[`match snapshot 1`] = `
 <div>
   <div
-    class="sc-furwcr jIgEcB"
+    class="sc-jrQzAO iRfREX"
   >
     <div
-      class="sc-pVTFL ftKrgq"
+      class="sc-kDTinF ctUWHg"
     >
       <input
-        class="sc-jrQzAO ioWYCL"
+        class="sc-iqseJM bnnAZf"
         placeholder="Email"
       />
       <input
-        class="sc-jrQzAO ioWYCL"
+        class="sc-iqseJM bnnAZf"
         placeholder="Password"
       />
       <button
-        class="sc-kDTinF bTdvEh"
+        class="sc-crHmcD hlgrjc"
       >
         Login
       </button>
