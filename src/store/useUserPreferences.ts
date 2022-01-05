@@ -1,16 +1,24 @@
 import create from 'zustand';
 import { persist } from 'zustand/middleware';
-import { dark } from '../styles/theme/dark';
 
 type InitialState = {
-  theme: typeof dark;
+  themeName: 'dark' | 'light';
+  toggleTheme: () => void;
 };
 
 export const useUserPreferences = create<InitialState>(
   persist(
-    () => ({
-      theme: dark,
-    }),
+    (set, get) =>
+      ({
+        themeName: 'dark',
+        toggleTheme: () => {
+          const currentThemeName = get().themeName;
+
+          const newTheme = currentThemeName === 'dark' ? 'light' : 'dark';
+
+          set({ themeName: newTheme });
+        },
+      } as InitialState),
     {
       name: 'useUserPreferences',
     }

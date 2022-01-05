@@ -3,13 +3,14 @@ import Provider from './Provider';
 import AppRoutes from './routes';
 import { useUserPreferences } from './store/useUserPreferences';
 import GlobalStyles from './styles/global';
+import theme from './styles/theme';
 
 function App() {
-  const { theme } = useUserPreferences();
+  const { themeName } = useUserPreferences();
 
   return (
     <Provider>
-      <SkeletonTheme highlightColor={theme.colors.accent.soft}>
+      <SkeletonTheme highlightColor={theme[themeName].colors.accent.soft}>
         <GlobalStyles />
         <AppRoutes />
       </SkeletonTheme>

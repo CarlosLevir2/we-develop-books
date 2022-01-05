@@ -1,4 +1,4 @@
-export const dark = {
+const dark = {
   name: 'dark',
   colors: {
     accent: {
@@ -24,3 +24,5 @@ export const dark = {
     default: '180ms ease-in-out',
   },
 };
+
+export default dark;

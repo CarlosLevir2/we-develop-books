@@ -1,4 +1,4 @@
-export const light = {
+const light = {
   name: 'light',
   colors: {
     accent: {
@@ -24,3 +24,5 @@ export const light = {
     default: '180ms ease-in-out',
   },
 };
+
+export default light;

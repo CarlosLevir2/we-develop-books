@@ -1,7 +1,7 @@
 import { useCallback, useMemo, useState } from 'react';
+import useTheme from '../../hooks/theme';
 import { Manga } from '../../services/requests/types';
 import { useFavoriteMangas } from '../../store/useFavoriteMangas';
-import { useUserPreferences } from '../../store/useUserPreferences';
 
 import * as S from './styles';
 
@@ -13,7 +13,7 @@ type Props = {
 const Card = ({ manga, showFavorites = false }: Props) => {
   const [showDescription, setShowDescription] = useState(false);
   const { favorites } = useFavoriteMangas();
-  const { theme } = useUserPreferences();
+  const { theme } = useTheme();
 
   const isFavorite = useMemo(
     () => favorites?.includes(manga.mal_id),
@@ -30,13 +30,13 @@ const Card = ({ manga, showFavorites = false }: Props) => {
     useFavoriteMangas.setState({ favorites: newFavorites });
   }, [favorites, manga.mal_id]);
 
-  if (showFavorites && !isFavorite) {
-    return null;
-  }
-
   const toggleDescription = useCallback(() => {
     setShowDescription((oldShowDescription) => !oldShowDescription);
   }, []);
+
+  if (showFavorites && !isFavorite) {
+    return null;
+  }
 
   return (
     <S.Card>
