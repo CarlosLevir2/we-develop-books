@@ -1,7 +1,7 @@
 import { render, screen } from '@testing-library/react';
 import Card from '../../../components/Card';
 import Provider from '../../../Provider';
-import { mangasMock } from '../../../__mocks__/mangas';
+import { mangasMock } from '../../__mocks__/mangas';
 
 const firstManga = mangasMock.top[0];
 

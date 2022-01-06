@@ -3,7 +3,7 @@ import nock from 'nock';
 import Home from '../../../pages/Home';
 import Provider from '../../../Provider';
 import { API_BASE_URL } from '../../../services/api';
-import { mangasMock } from '../../../__mocks__/mangas';
+import { mangasMock } from '../../__mocks__/mangas';
 
 nock(API_BASE_URL)
   .persist()

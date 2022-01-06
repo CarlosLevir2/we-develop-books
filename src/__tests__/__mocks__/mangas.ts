@@ -1,7 +1,7 @@
-export const mangasMock = {
-  // 20211207100440
-  // https://api.jikan.moe/v3/top/manga
+// 20211207100440
+// https://api.jikan.moe/v3/top/manga
 
+export const mangasMock = {
   request_hash: 'request:top:51c007946f414308f87245e27477e8015750d049',
   request_cached: true,
   request_cache_expiry: 150925,
